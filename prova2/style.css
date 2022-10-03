@@ -1,0 +1,21 @@
+body{
+margin: 0;
+}
+header{
+    background-color: black;
+    margin: 0;
+}
+.logo{
+    justify-content: left;
+    height:60px ;
+    width:70px ;
+}
+.nav_bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items:;
+} 
+.search{
+    background-color: blue;
+}
